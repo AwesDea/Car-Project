@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Marg" type="JavaFX" />
+      <mapping pattern="1" type="Native" />
+      <mapping pattern="Jrpg" type="PLAIN_TEXT" />
+      <mapping pattern="new" type="PLAIN_TEXT" />
+      <mapping pattern="dooz" type="PLAIN_TEXT" />
+      <mapping pattern="Player.java" type="PLAIN_TEXT" />
+      <mapping pattern="Library" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
