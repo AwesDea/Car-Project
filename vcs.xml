@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/exfger/Race-Game.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/exfger/Messenger.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\AM!N\IdeaProjects" />
